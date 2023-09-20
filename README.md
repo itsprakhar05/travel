@@ -20,7 +20,7 @@ Easily navigate between sections to find the information you need.
 ## Getting Started
 To get started with the Travel Advisor App, follow these steps:
 
-###Clone the Repository:
+### Clone the Repository:
 
 gh repo clone itsprakhar05/travel
 ### Install Dependencies:
